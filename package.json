@@ -1,0 +1,19 @@
+{
+  "name": "playwithtailwindcss",
+  "version": "1.0.0",
+  "description": "Understanding tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arif Pehlivan",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4",
+    "vite": "^2.1.2"
+  },
+  "dependencies": {}
+}
